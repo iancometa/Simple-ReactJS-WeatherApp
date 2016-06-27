@@ -19,7 +19,7 @@ var InputLocation = React.createClass({
 
   getInitialState() {
     return {
-      appId: '', //please sign up to get API key
+      appId: '', //place API key here
       city: '',
       weather: ''
     }
