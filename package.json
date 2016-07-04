@@ -1,0 +1,27 @@
+{
+  "name": "reactjs-weatherapp",
+  "version": "1.0.0",
+  "description": "Simple ReactJS Weather App",
+  "main": "app-server.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0",
+    "jquery": "^3.0.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iancometa/Simple-ReactJS-WeatherApp.git"
+  },
+  "author": "Christian Cometa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iancometa/Simple-ReactJS-WeatherApp/issues"
+  },
+  "homepage": "https://github.com/iancometa/Simple-ReactJS-WeatherApp"
+}
